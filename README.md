@@ -24,7 +24,8 @@ To work on this project:
 3. Download the provided dataset or connect your own credit card transaction data.
 4. Follow the tutorial to build your fraud detection dashboard step-by-step.
 
-📥 **Download Dataset & Resources Here**: [Add Link]
+📥 **Download Dataset & Resources Here**: [(https://github.com/kaushik3521/CREDIT-CARD-FRAUD-ANALYSIS-USING-POWER-BI/blob/main/Credit%20Card%20Fraud%20Risk%20Analysis.csv)
+]
 
 ---
 
